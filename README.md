@@ -1,3 +1,10 @@
+> [!CAUTION]
+> Please install via [mocks-rs/homebrew-tap](https://github.com/mocks-rs/homebrew-tap).
+> 
+> ```bash
+> brew install mocks-rs/tap/mocks
+> ```
+
 # Homebrew mocks
 
 `mocks` formulae for the Homebrew package manager.
